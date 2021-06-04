@@ -1,0 +1,32 @@
+Is onze nieuwsbrief niet goed leesbaar? Bekijk hier de online versie:
+<%@ include view='rc_be_tnf_personalization_mirrorpage' %>
+
+++++++++++++++++++++++++++++++++++
+THE NORTH FACE, powered by A.S.Adventure
+++++++++++++++++++++++++++++++++++
+
+--------------------
+NEVER STOP EXPLORING DAYS
+--------------------
+
+Trek eropuit in een comfortabele outfit van The North Face en maak herinneringen die je een leven lang bijblijven. Profiteer nú van kortingen* aan -30% op geselecteerde producten, waar je nog lang na de Never Stop Exploring Days van kan genieten.
+
+[ + ] Shop met korting:
+https://www.asadventure.com/nl/c/mid-season/tnf.html
+
+* Enkel geldig op aangeduide producten tot en met 19/04/2021.
+
+****************************************************************************************************************************
+
+Lees de actievoorwaarden op de website.
+
+Je ontvangt deze mail omdat je je hebt aangemeld bij The North Face, powered by A.S.Adventure.
+Deze e-mail is verstuurd naar <%= recipient.email %>
+
+[ + ] Uitschrijven?
+https://www.asadventure.com/nl/account/uitschrijven-the-north-face.html
+
+[ + ] Lees onze Privacy Policy:
+https://www.asadventure.com/nl/legals/privacy-policy.html
+
+<%= formatDate(new Date(), "%4Y") %> All rights reserved A.S.Adventure

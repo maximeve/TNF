@@ -1,0 +1,13 @@
+//////////////// DYNAMIC SEGMENTS //////////////
+<% if ( targetData.segmentcode_xxxxx === "xxxxx"){%>
+<%}else{%>
+<%}%>
+
+<% if ( targetData.segmentcode_xxxxx === "xxxxx" ){%>
+<%}else if (targetData.segmentcode_yyyyy === "yyyyy"){%>
+<%}else{%>
+<% } %>
+
+//////////////// PERSONALISATION //////////////
+Veel plezier met je nieuwe aankoop<% if ( recipient.firstName != "" && recipient.firstName != undefined ) { %>, <%= recipient.firstName.toLowerCase().charAt(0).toUpperCase() + recipient.firstName.toLowerCase().slice(1) %><% } else { %><% } %>!
+
